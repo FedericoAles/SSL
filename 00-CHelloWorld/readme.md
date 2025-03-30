@@ -1,3 +1,3 @@
-Compilador seleccionado: GCC
-Versión: 14.2.0
-Versión de C que compila: todas hasta C2x inclusive
+- Compilador seleccionado: GCC
+- Version: 14.2.0
+- Version de C que compila: todas hasta C2x inclusive
